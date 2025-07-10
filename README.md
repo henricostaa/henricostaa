@@ -43,7 +43,7 @@
 |---------|-----------|-------------|
 | [Simulador de IRPF](https://github.com/henricostaa/Projeto_MVC) | Sistema web para cálculo de imposto de renda | ![C#](https://img.shields.io/badge/-C%23-239120) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4) ![SQLite](https://img.shields.io/badge/-SQLite-003B57) |
 | [Busca de Filmes](https://github.com/henricostaa/Filmes) | Aplicação para consulta de filmes por API | ![C#](https://img.shields.io/badge/-C%23-239120) ![API REST](https://img.shields.io/badge/-API_REST-FF6C37)| 
-| [Gerenciador de Tarefas](https://github.com/henricostaa/react-project) | Aplicação para gerenciamento de tarefas do dia a dia | ![Node](https://img.shields.io/badge/node.js-339933) ![React](https://img.shields.io/badge/-React.Js-61DAFB)
+| [Gerenciador de Tarefas](https://github.com/henricostaa/react-project) | Aplicação para gerenciamento de tarefas do dia a dia | ![Node](https://img.shields.io/badge/NODE.JS-339933) ![React](https://img.shields.io/badge/-REACT.JS-61DAFB)
 
 ---
 
