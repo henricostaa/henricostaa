@@ -4,7 +4,7 @@
 
 💼 Atuei como **Estagiário Speed** na FI Group  
 🚀 Focado em **Desenvolvimento, análise de dados e Transformação Digital**  
-🌱 Aprendendo: **PostgreSQL | React**
+🌱 Aprendendo: **Autenticação | React**
 
 ---
 
