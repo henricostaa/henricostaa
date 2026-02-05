@@ -50,9 +50,10 @@
 
 ## 📊 GitHub Stats
 
-![Estatísticas](https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api?username=henricostaa&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+![Estatisticas](https://github-readme-stats.vercel.app/api?username=henricostaa&show_icons=true&theme=dracula&hide_border=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api/top-langs/?username=henricostaa&layout=compact&theme=dracula&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henricostaa&layout=compact&theme=dracula&hide_border=true)
+
 
 
 ---
