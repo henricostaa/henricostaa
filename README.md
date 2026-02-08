@@ -1,14 +1,14 @@
-# 👋 Olá, eu sou Henrique Costa! 
+# Olá, eu sou Henrique Costa! 
 
 **`Desenvolvedor Full Stack`**
 
-💼 Atuei como **Estagiário Speed** na FI Group  
-🚀 Focado em **Desenvolvimento, análise de dados e Transformação Digital**  
-🌱 Aprendendo: **Autenticação | React**
+Atuei como **Estagiário Speed** na FI Group  
+Focado em **Desenvolvimento, análise de dados e Transformação Digital**  
+Aprendendo: **Autenticação | React**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Linguagens e Frameworks**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -31,14 +31,14 @@
 
 ---
 
-## 🏆 Destaques Profissionais
+## Destaques Profissionais
 
 - **+30% de produtividade** com sistema de inteligência analítica desenvolvido na FI Group
 - **Projetos acadêmicos** com ASP.NET MVC e APIs REST
 
 ---
 
-## 🔥 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Estatisticas](https://github-readme-stats-sigma-five.vercel.app/api?username=henricostaa&show_icons=true&theme=dracula)
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 📫 Contato!
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquecostadsantos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hcostadsantos@gmail.com)
