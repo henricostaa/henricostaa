@@ -50,9 +50,9 @@ Aprendendo: **Autenticação | React**
 
 ## GitHub Stats
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=henricostaa&show_icons=true&theme=dracula&cache_seconds=1800)
+![Estatisticas](https://github-readme-stats-sigma-five.vercel.app/api?username=henricostaa&show_icons=true&theme=dracula&v=2)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henricostaa&layout=compact&theme=dracula&cache_seconds=1800)
+![Linguagens Mais Usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henricostaa&layout=compact&theme=dracula&v=2)
 
 ---
 
