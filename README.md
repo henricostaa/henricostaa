@@ -43,8 +43,8 @@ Aprendendo: **Autenticação | React**
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [Simulador de IRPF](https://github.com/henricostaa/Projeto_MVC) | Sistema web para cálculo de imposto de renda | ![C#](https://img.shields.io/badge/-C%23-239120) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4) ![SQLite](https://img.shields.io/badge/-SQLite-003B57) |
-| [Busca de Filmes](https://github.com/henricostaa/Filmes) | Aplicação para consulta de filmes por API | ![C#](https://img.shields.io/badge/-C%23-239120) ![API REST](https://img.shields.io/badge/-API_REST-FF6C37)| 
-| [Family Travel Tracker](https://github.com/henricostaa/family-travel-tracker-project) | Dashboard web para registrar países visitados por diferentes membros da família | ![Node](https://img.shields.io/badge/Node.js-339933) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1)
+| [Dashboard de Logins](https://github.com/henricostaa/analise-tabela-informacoes) | Dashboard interativo para analisar logins recentes | ![Python](ttps://img.shields.io/badge/Python-3776AB)| 
+| [Family Travel Tracker](https://github.com/henricostaa/family-travel-tracker-project) | Dashboard web para registrar países visitados por diferentes membros da família | ![Node](https://img.shields.io/badge/Node.js-339933) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1) |
 
 ---
 
