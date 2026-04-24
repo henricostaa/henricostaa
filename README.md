@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Full Stack`**
 
-Atuei como **Estagiário Speed** na FI Group  
-Focado em **Desenvolvimento, análise de dados e Transformação Digital**  
-Aprendendo: **Autenticação | React**
+Atuo como **Estagiário de TI - Desenvolvimento** na Auditto  
+Focado em **Desenvolvimento e análise de dados**  
+Aprendendo: **React**
 
 ---
 
