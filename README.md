@@ -3,8 +3,8 @@
 **`Desenvolvedor Full Stack`**
 
 Atuo como **Estagiário de TI - Desenvolvimento** na Auditto  
-Focado em **Desenvolvimento e análise de dados**  
-Aprendendo: **React**
+Focado em **Desenvolvimento e Análise de Dados**  
+Aprendendo: **React e TypeScript**
 
 ---
 
