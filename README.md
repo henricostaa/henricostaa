@@ -1,10 +1,14 @@
-# Olá, eu sou Henrique Costa! 
+<h1 align="center">Henrique Costa | henricostaa</h1>
 
-**`Desenvolvedor Full Stack`**
+<p align="center">
+  Full Stack Developer |
+  IT Development Intern |
+  Data Analysis
+</p>
 
-Atuo como **Estagiário de TI - Desenvolvimento** na Auditto  
-Focado em **Desenvolvimento e Análise de Dados**  
-Aprendendo: **React e TypeScript**
+<p align="center">
+  Currently working at <strong>Auditto</strong> and focused on building web solutions, APIs, dashboards, and data-driven tools.
+</p>
 
 ---
 
