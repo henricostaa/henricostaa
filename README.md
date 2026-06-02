@@ -89,32 +89,31 @@
 
 ---
 
-## Destaques Profissionais
+<h3 align="center">Featured Projects</h3>
 
-- **+30% de produtividade** com sistema de inteligência analítica desenvolvido na FI Group
-- **Projetos acadêmicos** com ASP.NET MVC e APIs REST
+<div align="center">
 
----
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Simulador de IRPF](https://github.com/henricostaa/Projeto_MVC) | Web system for calculating Brazilian income tax. | C#, ASP.NET MVC, SQLite |
+| [Dashboard de Logins](https://github.com/henricostaa/analise-tabela-informacoes) | Interactive dashboard for analyzing recent login information. | Python, Data Analysis |
+| [Family Travel Tracker](https://github.com/henricostaa/family-travel-tracker-project) | Web dashboard for registering countries visited by family members. | Node.js, PostgreSQL |
 
-## Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Simulador de IRPF](https://github.com/henricostaa/Projeto_MVC) | Sistema web para cálculo de imposto de renda | ![C#](https://img.shields.io/badge/-C%23-239120) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4) ![SQLite](https://img.shields.io/badge/-SQLite-003B57) |
-| [Dashboard de Logins](https://github.com/henricostaa/analise-tabela-informacoes) | Dashboard interativo para analisar logins recentes | ![Python](https://img.shields.io/badge/Python-3776AB)| 
-| [Family Travel Tracker](https://github.com/henricostaa/family-travel-tracker-project) | Dashboard web para registrar países visitados por diferentes membros da família | ![Node](https://img.shields.io/badge/Node.js-339933) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1) |
+</div>
 
 ---
 
-## GitHub Stats
 
-![Estatisticas](https://github-readme-stats-sigma-five.vercel.app/api?username=henricostaa&show_icons=true&theme=dracula&v=2)
-
-![Linguagens Mais Usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henricostaa&layout=compact&theme=dracula&v=2)
 
 ---
 
-## Contato
+<h3 align="center">Contact</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquecostadsantos/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hcostadsantos@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/henriquecostadsantos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hcostadsantos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
