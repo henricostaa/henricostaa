@@ -110,7 +110,7 @@
 <h3 align="center">Contact</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/henriquecostadsantos/" target="_blank">
+  <a href="https://www.linkedin.com/in/henriquecostadsantos/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   <img width="12" />
   </a>
