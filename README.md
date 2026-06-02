@@ -12,6 +12,15 @@
 
 ---
 
+<h3 align="center">GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=henricostaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=henricostaa&show_icons=true&theme=dracula&hide_border=false" height="150" />
+</div>
+
+---
+
 ## Tech Stack
 
 ### **Linguagens e Frameworks**
