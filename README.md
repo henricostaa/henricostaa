@@ -15,8 +15,8 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricostaa&layout=compact&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=henricostaa&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=henricostaa&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=henricostaa&show_icons=true&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
