@@ -111,3 +111,9 @@
   </a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=a83dff&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henricostaa/henricostaa/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henricostaa/henricostaa/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/henricostaa/henricostaa/output/snake.svg">
+</picture>
